@@ -146,3 +146,7 @@ body{
 .hr-spec{
     border: solid 30px rgba(98, 0, 255, 0.336);
 }
+.topic-link{
+    color: white;
+    text-decoration: none;
+}
