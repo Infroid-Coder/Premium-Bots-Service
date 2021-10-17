@@ -1,0 +1,179 @@
+@media screen and (max-width: 1010px){
+    .logo{
+        width:40%;
+    }
+    .service{
+        font-size: 13px;
+    }
+    .navbar{
+        
+        height:90px;
+    }
+    .services-listing{
+        font-size: 24px;
+    }
+    .note{
+        font-size: 17px;
+    }
+    .topic{
+        font-size: 27px;
+    }
+    .services{
+        font-size: 30px;
+    }
+    .pricing-listing{
+        font-size: 24px;
+    }
+}
+@media screen and (max-width: 726px){
+    .logo{
+        width:50%;
+    }
+    .service{
+        font-size: 13px;
+    }
+    .navbar{
+        
+        height:90px;
+    }
+    .services-listing{
+        font-size: 24px;
+    }
+    .note{
+        font-size: 17px;
+    }
+    .topic{
+        font-size: 27px;
+    }
+    .services{
+        font-size: 30px;
+    }
+    .pricing-listing{
+        font-size: 24px;
+    }
+    .contact{
+        padding: 8px;
+        width: 190px;
+    }
+}
+@media screen and (max-width: 660px){
+    .logo{
+        width:50%;
+    }
+    .service{
+        font-size: 13px;
+    }
+    .navbar{
+        height:80px;
+    }
+    .services-listing{
+        font-size: 22px;
+    }
+    .note{
+        font-size: 16px;
+    }
+    .topic{
+        font-size: 27px;
+    }
+    .services{
+        font-size: 27px;
+    }
+    .pricing-listing{
+        font-size: 22px;
+    }
+    .contact{
+        padding: 8px;
+        width: 190px;
+    }
+}
+@media screen and (max-width: 726px){
+    .logo{
+        width:50%;
+    }
+    .service{
+        font-size: 13px;
+    }
+    .navbar{
+        
+        height:90px;
+    }
+    .services-listing{
+        font-size: 24px;
+    }
+    .note{
+        font-size: 17px;
+    }
+    .topic{
+        font-size: 27px;
+    }
+    .services{
+        font-size: 30px;
+    }
+    .pricing-listing{
+        font-size: 24px;
+    }
+    .contact{
+        padding: 8px;
+        width: 190px;
+    }
+}
+@media screen and (max-width: 542px){
+    .logo{
+        width:60%;
+    }
+    .service{
+        font-size: 13px;
+    }
+    .navbar{
+        height:80px;
+    }
+    .services-listing{
+        font-size: 22px;
+    }
+    .note{
+        font-size: 15px;
+    }
+    .topic{
+        font-size: 27px;
+    }
+    .services{
+        font-size: 27px;
+    }
+    .pricing-listing{
+        font-size: 22px;
+    }
+    .contact{
+        padding: 8px;
+        width: 190px;
+    }
+}
+@media screen and (max-width: 465px){
+    .logo{
+        width:70%;
+    }
+    .service{
+        font-size: 12px;
+    }
+    .navbar{
+        height:80px;
+    }
+    .services-listing{
+        font-size: 21px;
+    }
+    .note{
+        font-size: 14px;
+    }
+    .topic{
+        font-size: 27px;
+    }
+    .services{
+        font-size: 27px;
+    }
+    .pricing-listing{
+        font-size: 21px;
+    }
+    .contact{
+        padding: 7px;
+        width: 170px;
+    }
+}
